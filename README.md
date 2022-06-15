@@ -18,3 +18,7 @@ Repositório criado para o desafio de projeto contendo anotações feitas durant
 
 [ Editor Markdown Gratuito ]( https://wereturtle.github.io/ghostwriter/download.html#windows )
 
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/105255176/173716942-bfa7c331-a426-4361-8de6-92408d4186fc.png" width="250px" />
+</div>
