@@ -1,6 +1,6 @@
-# Desafio de projeto sobre Git/Github da Dio
+# Desafio de projeto da Dio
 
-Repositório criado para o Desafio de Projeto.
+Repositório criado para o desafio de projeto contendo anotações feitas durante os cursos / bootcamps.
 
 
 
